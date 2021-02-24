@@ -13,7 +13,7 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /server-statuses
   # logoUrl: https://scontent.fyyc2-1.fna.fbcdn.net/v/t1.0-9/117934337_113988470420922_9073664865379495787_o.jpg?_nc_cat=109&ccb=3&_nc_sid=09cbfe&_nc_ohc=NBHXKEl_mYcAX-3ENWE&_nc_ht=scontent.fyyc2-1.fna&oh=600bd75254156240bf136e8d54a9297d&oe=604CB1EB
   name: A.A.S. Development Studios Ltd.
   introTitle: "**A.A.S.** server statuses."
