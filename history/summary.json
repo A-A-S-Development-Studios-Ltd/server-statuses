@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 301,
-    "timeDay": 279,
+    "timeDay": 276,
     "timeWeek": 267,
     "timeMonth": 275,
     "timeYear": 301,
@@ -22,17 +22,19 @@
     "url": "https://account.easypdfsigner.ca/login",
     "icon": "https://favicons.githubusercontent.com/account.easypdfsigner.ca",
     "slug": "easy-pdf-signer-web-application",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 291,
-    "timeDay": 249,
-    "timeWeek": 258,
-    "timeMonth": 267,
+    "timeDay": 253,
+    "timeWeek": 260,
+    "timeMonth": 268,
     "timeYear": 291,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-04": 0
+    }
   }
 ]
